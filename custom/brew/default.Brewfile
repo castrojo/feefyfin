@@ -20,3 +20,6 @@ brew "zoxide"     # Smarter cd command
 # Utilities
 brew "htop"       # Interactive process viewer
 brew "tmux"       # Terminal multiplexer
+brew "zellij"     # Modern terminal workspace
+brew "nvim"       # Neovim text editor
+brew "kubectl"    # Kubernetes CLI
