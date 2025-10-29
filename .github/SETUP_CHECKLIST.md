@@ -1,4 +1,4 @@
-# Setup Checklist for Finpilot Template
+# Setup Checklist for feefyfin Template
 
 After creating a repository from this template, follow these steps:
 
@@ -21,7 +21,7 @@ After creating a repository from this template, follow these steps:
 ## Customization
 
 - [ ] **Update Project Name**
-  - [ ] Change `finpilot` in `Containerfile` (line 9: `# Name: finpilot`)
+  - [ ] Change `feefyfin` in `Containerfile` (line 9: `# Name: feefyfin`)
   - [ ] Update `image_name` in `Justfile` (line 1)
   - [ ] Update README.md title
   - [ ] Update `artifacthub-repo.yml` repositoryID
